@@ -7,4 +7,4 @@ this is my test project to learn github
 
 ![](images/1.jpg?raw=true)
 
-[聚酷广告平台](http://jukuad.com)
+[鑱氶叿骞垮憡骞冲彴](http://jukuad.com)
